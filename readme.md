@@ -1,5 +1,15 @@
 # Treinamento — Fundamentos de IA e Análise de Dados
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?logo=yolo&logoColor=black)
+![License](https://img.shields.io/badge/Licença-Educacional-lightgrey)
+![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+
 Repositório criado para o curso de **Fundamentos de IA e Análise de Dados**, reunindo os materiais, exercícios e projetos práticos desenvolvidos ao longo do treinamento.
 
 ## Descrição
@@ -81,9 +91,6 @@ Este curso apresenta os fundamentos da linguagem Python e evolui progressivament
 
 **Eduardo Godoy** — [@godoyeduardo135](https://github.com/godoyeduardo135)
 
-**Eduardo Godoy**
-[Linkedin - Eduardo Godoy](https://www.linkedin.com/in/eduardo-godoy-b73615272/)
-
-## 🪪 Licença
+## Licença
 
 Este repositório é de uso educacional, desenvolvido no contexto do curso de Fundamentos de IA e Análise de Dados.
